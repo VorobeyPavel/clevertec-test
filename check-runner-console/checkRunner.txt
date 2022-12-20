@@ -1,0 +1,14 @@
+            CASH RECEIPT
+           supermarket 123
+          Tel :123-456-789
+CASHIER: №3286       DATE: 20/12/2022
+                     TIME: 16:38:44
+-------------------------------------
+QTY DESCRIPTION        PRICE    TOTAL
+ 2  Orange             $4,49    $8,98
+ 5  Pineapple          $5,29   $26,45
+ 3  Grape              $3,69   $11,07
+=====================================
+TAXABLE TOT.                   $44,17
+Discount                        $2,33
+TOTAL                           $46,5

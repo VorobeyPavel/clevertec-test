@@ -1,0 +1,24 @@
+
+server:
+  port: 8088
+spring:
+  jpa:
+    database: postgresql
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:postgresql://localhost:5432/clevertec?useSSL=false&amp;serverTimezone=UTC
+    username: postgres
+    password: postgres
+    driverClassName: org.postgresql.Driver
+  h2:
+    console:
+      enabled: true
+  sql:
+    init:
+      platform: org.hibernate.dialect.PostgreSQL95Dialect
+
+
+
+
