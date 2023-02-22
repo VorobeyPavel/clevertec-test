@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-02-22T19:33:34" hostname="DESKTOP-SEC0F3C" time="0.105">
+  <properties/>
+  <testcase name="priceProduct()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.043"/>
+  <testcase name="getWarehouse()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.009"/>
+  <testcase name="priceProduct2()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.004"/>
+  <testcase name="shoppingList()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.003"/>
+  <testcase name="getWarehouseWithFile()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.012"/>
+  <testcase name="productAvailabilityCheck()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.004"/>
+  <testcase name="getNumberCard()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.002"/>
+  <testcase name="getWarehouseDB()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.004"/>
+  <testcase name="getNumberCardNoCard()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.003"/>
+  <testcase name="quantityDiscount()" classname="ru.pvorobey.checkrunnerconsole.service.ServiceImplTest" time="0.005"/>
+  <system-out><![CDATA[Р’РІРµРґРёС‚Рµ РїСѓС‚СЊ Рє С„Р°Р№Р»Сѓ СЃ С‚РѕРІР°СЂР°РјРё
+Р”РёСЃРєРѕРЅС‚РЅР°СЏ РєР°СЂС‚Р° РЅРµ СЃС‡РёС‚Р°РЅР°. РќРѕРјРµСЂ РґРёСЃРєРѕРЅС‚РЅРѕР№ РєР°СЂС‚С‹ РґРѕР»Р¶РµРЅ РёРјРµС‚СЊ С†РµР»РѕС‡РёСЃР»РµРЅРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
